@@ -3,7 +3,7 @@
 * もとを言えば，Windowsのエディター環境をMacに変更するのが面倒くさかっただけ:innocent:
 
 ## WHAT?
-* EditoColor，Terminal，UISettingsをもろもろエクスポート
+* EditorColor，Terminal，UISettingsをもろもろエクスポート
 * ベースのEditorTheme
   * Obsidian
 
@@ -13,5 +13,8 @@
 * すでにインストール済みの場合
   * エディター画面より，`File` -> `Import settings...`を選択してください
   
+## Caution
+* 自分のPCが高解像度PCなのでフォントがえげつなく拡大されてます。調節するときは設定画面より、`Editor` => `Font`と`Appearance & Behavior` => `Appearange`から設定してください
+
 ## SCREEN SHOTS
 ![Imgur](https://i.imgur.com/CdUzA4j.png)
